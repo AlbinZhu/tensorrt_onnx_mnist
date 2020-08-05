@@ -1,0 +1,1 @@
+# Import TensorRT sampleOnnxMNIST to IDE(Clion) with CmakeList.
